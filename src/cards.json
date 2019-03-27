@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "The Tick",
+      "image": "https://cdn.pastemagazine.com/www/articles/The%20Tick%20111%20Main.jpg",
+      "power": "Almost indestructable"
+      
+    },
+    {
+      "id": 2,
+      "name": "Baby Boomerangatang",
+      "image": "http://www.thetick.ws/images/babyboomerangatuang.jpg",
+      "power": "Dressed in Gorilla outfit, throws dolls that yell 'mama!' at you, which return to him like a boomerang?"
+      
+    },
+    {
+      "id": 3,
+      "name": "Arthur",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/2/21/Arthur1.jpg/revision/latest?cb=20120517203142&path-prefix=protagonist",
+      "power": "Can fly, with his flying suit on"
+      
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "power": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 5,
+      "name": "Chairface Chippendale",
+      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
+      "power": "Has a chair for a face?"
+      
+    },
+    {
+      "id": 6,
+      "name": "Carpeted Man",
+      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "power": "Can drag his feet, then shock you"
+      
+    },
+    {
+      "id": 7,
+      "name": "Indigestible Man",
+      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
+      "power": "Cannot be digested"
+      
+    },
+    {
+      "id": 8,
+      "name": "Man Eating Cow",
+      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "power": "Eats men"
+      
+    },
+    {
+      "id": 9,
+      "name": "Bi-Polar Bear",
+      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "occupation": "Dresses up as a bear and is bipolar"
+      
+    },
+    {
+      "id": 10,
+      "name": "Buttery Pat",
+      "image": "https://vignette.wikia.nocookie.net/the-tick-animated/images/5/5e/Butterypatsmile.png/revision/latest?cb=20170308062551",
+      "power": "Can slide on buttery feet. Adds butter to breadbombs of breadbombs"
+      
+    },
+    {
+      "id": 11,
+      "name": "The Terror",
+      "image": "http://moa.omnimulti.com/images/thumb/f/fe/Terror_Animated.jpg/308px-Terror_Animated.jpg",
+      "power": "Really old"
+      
+    },
+    {
+      "id": 12,
+      "name": "The Tick",
+      "image": "https://vignette.wikia.nocookie.net/villains/images/e/ea/Barry_hubris_3.jpg/revision/latest?cb=20130814040531",
+      "occupation": "Ahhhh! A Real Monster!"
+      
+    }
+  ]
+  
